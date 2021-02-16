@@ -2,7 +2,7 @@
   "name": "filterinvites",
   "version": "1.0.0",
   "description": "Filter the content of a channel to only allow messages containing invite links for the current discord",
-  "main": "index.js",
+  "main": "filterinvites.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
